@@ -16,3 +16,7 @@ I have remove some property from layout.cshtml line no 7, 23,27
 go to the loginpartial.cshtml file and remove text-dark from all lines
 run application
 its run
+
+add additional script in the layout.cshtml file 
+Add dropdown menu for content management in the layout.cshtml file.
+
