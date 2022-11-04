@@ -41,6 +41,9 @@ modify namespace in the ApplicationDbContext.cs File
 0131
 Delete default Class1.cs file in all project
 move models folder into the ParthsBooks.models project
+get the error in startup.cs file...
+try to solve error..
+add this library file in the top
 **************************************************************************************************
 
 03 NOV 2022
