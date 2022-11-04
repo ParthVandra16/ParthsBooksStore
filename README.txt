@@ -147,3 +147,5 @@ change startup.cs
 run app
 it s not run 
 get exception handing says index.cshtml not found
+
+try to run but localhost page cannot found show
