@@ -1,22 +1,49 @@
 ﻿START FROM SCRATCH
+04 nov 2022
+0753
 
 create readme.txt file
 
 Create GITHUB Repository named ParthsBookStore and publish 
 run web application
 
-4 nov 2022
-1044
+0755
 Change startup.cs file from the assignment2 file
-go to the Boostwatch website and download Morph theme bootstrap.css file
+go to the Boostwatch website and download minty theme bootstrap.css file
 and change bootstrap.css and Site.css file
 add additional stylesheet from assignment2 file
 change file name bootstrap.min.css to bootstrap.css in layout.cshtml
 I have remove some property from layout.cshtml line no 7, 23,27
 go to the loginpartial.cshtml file and remove text-dark from all lines
 run application
-its run
 
+0820
 add additional script in the layout.cshtml file 
 Add dropdown menu for content management in the layout.cshtml file.
 
+Add three new project 
+Install nuget packages
+Delete migration folder
+Install nuget packages in the ParthsBooks.DataAccess project
+modify namespace in the ApplicationDbContext.cs File
+
+0825
+Delete default Class1.cs file in all project
+move models folder into the ParthsBooks.models project
+modify error.cshtml file
+add project reference
+
+0850
+rename model folder to view folder ViewModels
+change the Errorviewmodels.cs tp .models.viewmodels
+modify startup.cs file add library file "using ParthsBookStore.DataAccess.Data;"
+correct default reference to ErrorViewModel
+run code..
+its run
+
+1030
+ADD customer area
+change startup.cs
+run app
+it s not run 
+get exception handing says index.cshtml not found
